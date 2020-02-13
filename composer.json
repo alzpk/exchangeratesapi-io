@@ -1,0 +1,19 @@
+{
+    "name": "alzpk/exchangeratesapi-io",
+    "description": "Exchangeratesapi.io API PHP wrapper",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "alzpk",
+            "email": "mh1986@outlook.dk"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Alzpk\\ExchangeRatesApiIo\\": "src/"
+        }
+    },
+    "require": {}
+}
